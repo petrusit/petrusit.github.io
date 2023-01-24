@@ -1,3 +1,3 @@
-# Petrus IT
+# Petrus Informaation Technologies
 
-website
+Software and scientific consultancy.
